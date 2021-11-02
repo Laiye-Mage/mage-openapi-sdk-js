@@ -1,0 +1,17 @@
+{
+  "name": "laiye-mage-sample-js",
+  "version": "1.0.0",
+  "description": "sample code for communicate with Laiye's mage API",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alston",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "dotenv": "^10.0.0"
+  }
+}
